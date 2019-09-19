@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">OrderItOnline</string>
+    <string name="FACEBOOK_APP_ID">666633860514750</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">c9c89166fbc140ffebf5e8e199e45924</string>
+    <string name="title_activity_home">Orderit</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_logout">Log out</string>
+    <string name="update_information">Update Information</string>
+    <string name="menu_nearby">Near by store</string>
+    <string name="order_history">Order History</string>
+    <string name="money_sign">₦</string>
+    <string name="updateinfo">Update Information</string>
+    <string name="trial">A trial will surely convice you..</string>
+    <string name="naira">₦500</string>
+
+</resources>
